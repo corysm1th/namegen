@@ -2,7 +2,7 @@
 
 namegen generates random names of things nobody would ever want.
 
-[![Build Status](https://travis-ci.com/corysm1th/namegen.svg?branch=master)](https://travis-ci.com/corysm1th/namegen)
+[![Build Status](https://travis-ci.org/corysm1th/namegen.svg?branch=travis)](https://travis-ci.org/corysm1th/namegen)
 
 ## Usage
 
