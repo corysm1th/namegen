@@ -12,3 +12,6 @@ script:
 - make test
 - make lint
 
+branches:
+  except:
+    - master
