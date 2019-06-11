@@ -4,6 +4,7 @@ namegen generates random names of things nobody would ever want.
 
 [![Build Status](https://travis-ci.org/corysm1th/namegen.svg?branch=travis)](https://travis-ci.org/corysm1th/namegen)
 [![codecov](https://codecov.io/gh/corysm1th/namegen/branch/master/graph/badge.svg)](https://codecov.io/gh/corysm1th/namegen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Usage
 
