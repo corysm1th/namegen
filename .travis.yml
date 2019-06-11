@@ -11,6 +11,5 @@ script:
 - make test
 - make lint
 
-after_sucess:
+after_success:
   - bash <(curl -s https://codecov.io/bash)
-  
